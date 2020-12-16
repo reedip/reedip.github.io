@@ -39,11 +39,8 @@ Skills
 | Computer Languages| Tools| Languages|
 |--------------------|------|----------|
 | Python: Intermediate|Jenkins|English: Advanced|
-|--------------------|------|----------|
 | Shell : Intermediate|Ansible|Hindi: Native|
-|--------------------|------|----------|
 |                    |      |Bengali: Native|
-|--------------------|------|----------|
 |                    |      |Japanese: Beginner|
 |--------------------|------|----------|
 
