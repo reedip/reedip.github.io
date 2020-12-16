@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Hi, 
-I am Reedip Banerjee. I am an IT Engineer , with Gradutaion in Instrumentation Technology and Masters in Information Technology. I started working in the Telecom sector, but moved onto Storage and Cloud Computing Domain , and for the past 6 years have been working with Openstack.
+I am Reedip Banerjee. I am an IT Engineer, with Gradutaion in Instrumentation Technology and Masters in Information Technology. I started working in the Telecom sector, but moved onto Storage and Cloud Computing Domain , and for the past 6 years have been working with Openstack.
 Currently I am employed with LINE Corporation, Japan, working as an Infra Engineer Lead.
 
 Professional Life
 ======
-I started working with TCS in the telecom domain, after my graduation, but moved to NEC Technologies India, where I worked for the better part of my career. Having gained experience with Storage and Cloud Domain in NEC, I moved onto a brief stint with RH, before moving to LINE Corporation Japan. 
+Post my graduation, I started working with TCS in the telecom domain, but moved to NEC Technologies India, where I worked for the better part of my career. Having gained experience with Storage and Cloud Domain in NEC, I moved onto a brief stint with RH, before moving to LINE Corporation Japan. 
 Currently I am working with Openstack with interest in Neutron, Nova and Keystone.
 
 Education
