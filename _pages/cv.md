@@ -40,8 +40,8 @@ Skills
 |--------------------|------|----------|
 | Python: Intermediate|Jenkins|English: Advanced|
 | Shell : Intermediate|Ansible|Hindi: Native|
-|                    |      |Bengali: Native|
-|                    |      |Japanese: Beginner|
+|                    | JIRA |Bengali: Native|
+|                    | GIT  |Japanese: Beginner|
 
 Publications
 ======
