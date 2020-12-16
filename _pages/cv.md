@@ -19,33 +19,33 @@ Work experience
 ======
 * 2019 - Till Date: Cloud Infra Engineer
   * LINE Corporation, Japan
-  * Openstack Cloud Computing
+  * Openstack Cloud Computing 
 
 * 2018-2019: Senior Software Engineer
   * Red Hat India
-  * Open Virtual Networks
+  * Open Virtual Networks, Cloud Computing
   
 * 2011-2018: Senior Technical Lead
   * NEC Technologies India
-  * Storage and Cloud Computing Domain
+  * Storage and Cloud Computing 
 
 * 2008-2011: Assistant Systems Engineer
   * Tata Consultancy Services
-  * Telecom Domain
+  * Telecom 
   
 Skills
 ======
-* Computer Languages:
-  * Python: Intermediate
-  * Shell : Intermediate
-* Tools:
-  * Jenkins
-  * Ansible
-* Languages:
-  * English: Advanced
-  * Hindi: Native
-  * Bengali: Native
-  * Japanese: Beginner
+
+| Computer Languages| Tools| Languages|
+|--------------------|------|----------|
+| Python: Intermediate|Jenkins|English: Advanced|
+|--------------------|------|----------|
+| Shell : Intermediate|Ansible|Hindi: Native|
+|--------------------|------|----------|
+|                    |      |Bengali: Native|
+|--------------------|------|----------|
+|                    |      |Japanese: Beginner|
+|--------------------|------|----------|
 
 Publications
 ======
