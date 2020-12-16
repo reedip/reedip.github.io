@@ -42,7 +42,6 @@ Skills
 | Shell : Intermediate|Ansible|Hindi: Native|
 |                    |      |Bengali: Native|
 |                    |      |Japanese: Beginner|
-|--------------------|------|----------|
 
 Publications
 ======
