@@ -24,10 +24,12 @@ Work experience
 * 2018-2019: Senior Software Engineer
   * Red Hat India
   * Open Virtual Networks, Cloud Computing
+  * SDN/NFV
   
 * 2011-2018: Senior Technical Lead
   * NEC Technologies India
   * Storage and Cloud Computing 
+  * SDN/NFV, SR-IOV
 
 * 2008-2011: Assistant Systems Engineer
   * Tata Consultancy Services
@@ -36,12 +38,13 @@ Work experience
 Skills
 ======
 
-| Computer Languages| Tools| Languages|
-|--------------------|------|----------|
-| Python: Intermediate|Jenkins|English: Advanced|
-| Shell : Intermediate|Ansible|Hindi: Native|
-|                    | JIRA |Bengali: Native|
-|                    | GIT  |Japanese: Beginner|
+| Computer Languages| Tools| Languages|Webservers|Messaging|Platforms|
+|--------------------|------|----------|---------|---------|---------|
+| Python: Intermediate|Jenkins|English: Advanced|Apache|RabbitMq|Kubernetes|
+| Shell : Intermediate|Ansible|Hindi: Native|Nginx|||
+|                    | Jira/Confluence |Bengali: Native||||
+|                    | git  |Japanese: Beginner||||
+|                    |Prometheus|              ||||
 
 Publications
 ======
