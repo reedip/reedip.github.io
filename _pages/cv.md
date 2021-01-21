@@ -57,6 +57,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-  
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
