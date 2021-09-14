@@ -57,3 +57,9 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  TODO: Add the new talk for OID Asia 2021
+  
+Certifications
+======
+* CKA Certification : LF-c0s0oocbub
+* JLPT N5 Certification: N5A028969J
