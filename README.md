@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Openstack**
 
-- 🌱 I’m currently learning **SRv6, Machine Learning**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **reedip.banerjee@gmail.com**
 
