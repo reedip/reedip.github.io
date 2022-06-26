@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reedip Banerjee</h1>
 <h3 align="center">Cloud Engineer</h3>
 
-- 🔭 I’m currently working on **Openstack**
+- 🔭 I’m currently working as an **SRE**
 
 - 🌱 I’m currently learning **Kubernetes**
 
