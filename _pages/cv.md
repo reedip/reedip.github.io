@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2019 - Till Date: Cloud Infra Engineer
+* 2022 - Till Date: Site Reliability Engineer
+  * Apple Corporation, Japan
+  * Kubernetes
+
+* 2019 - 2022: Cloud Infra Engineer
   * LINE Corporation, Japan
   * Openstack Cloud Computing 
 
